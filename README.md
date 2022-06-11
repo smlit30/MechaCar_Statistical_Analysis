@@ -7,7 +7,7 @@
 
 # 3: T-Test Results
 T-Test Results for Lot 1  
-<img src="T-Test_Lot1.png" alt="My cool logo"/>
+<img src="T-Test_Lot1.png"/>
 
 
 ## Study Design: MechaCar vs Competition

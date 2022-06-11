@@ -37,18 +37,18 @@ T-Test Result for Lot 3
 ## Study Design: MechaCar vs Competition
 
 Another study to run would be to see how various factors impact highway vs city mpg.  
-    - Metrics that would be need tested would be the highway and city mpg for vehicles and the variances in different vehicles. 
-        - Similar factors would be looked at to determine if individual factors imparct city vs highway mpg more. 
-        - Factors: vehicle weight, vehicle lenght, ground clearance, average miles travled per month
+- Metrics that would be need tested would be the highway and city mpg for vehicles and the variances in different vehicles. 
+    - Similar factors would be looked at to determine if individual factors imparct city vs highway mpg more. 
+    - Factors: vehicle weight, vehicle lenght, ground clearance, average miles travled per month
 
-    - Null Hypothese: The factors that affect a vehicles mpg impact city & highway mpg the same.
-    - Alternative Hypothesis: Factors that impact a vehicles mpg have a higher statistical impact on city mpg than highway mpg. 
+- Null Hypothese: The factors that affect a vehicles mpg impact city & highway mpg the same.
+- Alternative Hypothesis: Factors that impact a vehicles mpg have a higher statistical impact on city mpg than highway mpg. 
 
-    - Statistical Test to run to test the hypthesis.
-        - similar test that we have used in this example, linear regressions, t-test and statistical summaries on city & highway mpg.
+- Statistical Test to run to test the hypthesis.
+    - similar test that we have used in this example, linear regressions, t-test and statistical summaries on city & highway mpg.
 
-    - Data needed to run the hypthesis
-        - We woudl need the same data for our current test but would need to know when cars are on the highway vs in the city.  In a perfect test an identical car would drive soley in the city and the highway for each car tested to see how it would perform over the life of the car. 
+- Data needed to run the hypthesis
+    - We would need the same data for our current test but would need to know when cars are on the highway vs in the city.  In a perfect test an identical car would drive soley in the city and the highway for each car tested to see how it would perform over the life of the car. 
 
 
 
